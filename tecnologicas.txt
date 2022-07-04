@@ -1,0 +1,15 @@
+Las principales carreras que corresponden al area de informática y tecnología son:
+===============================================================================
+                            INFORMATICA Y TECNOLOGIA                          |                       
+===============================================================================
+INGENIERIA ELECTRONICA                                                        |
+INGENIERIA EN COMPUTACION                                                     |
+INGENIERIA EN SISTEMAS DE INFORMACION                                         |
+TECNICATURA UNIVERSITARIA EN PROGRAMACION                                     |
+TECNICATURA UNIVERSITARIA EN OPERACIONES INDUSTRIALES                         | 
+TECNICATURA UNIVERSITARIA EN SISTEMAS ELECTRÓNICOS INDUSTRIALES INTELIGENTES  |
+TECNICO SUPERIOR EN AUTOMATIZACION Y CONTROL                                  | 
+INGENIERIA EN SOFTWARE                                                        | 
+LICENCIATURA EN BIOINFORMATICA                                                |
+ANALISTA DE SISTEMAS                                                          | 
+===============================================================================

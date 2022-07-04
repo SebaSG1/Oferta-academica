@@ -1,0 +1,38 @@
+Las tecnicaturas son carreras que proporcionan conocimiento tecnico y especifico de determinada actividad profesional.
+Los egresados cuentan con una formación más enfocada en la práctica ya que los planes de estudios de las tecnicaturas se encuentran generalmente enfocados a la salida y el mercado laboral.
+Estas carreras terciarias se dictan mayormente en los Institutos de Educación Superior, aunque también las podemos encontrar en algunas universidades.
+La duracion es de entre 3 y 2 años. Estas son las tecnicaturas que se ofrecen en Bahía Blanca:
+==================================================================================================================================
+                                     CARRERAS TECNICATURAS                                     |DURACION | UNIVERSIDAD/INSTITUTO |
+==================================================================================================================================
+TECNICATURA SUPERIOR AGRARIA EN SUELOS Y AGUAS                                                 | 4 AÑOS  | 	 UNS		 |
+TECNICATURA SUPERIOR EN ADMINISTRACION Y GESTION DE RECURSOS PARA INSTITUCIONES UNIVERSITARIAS | 3 AÑOS  |  	 UNS		 |
+TECNICATURA UNIVERSITARIA APICOLA 							       | 3 AÑOS  |  	 UNS   		 |
+TECNICATURA UNIVERSITARIA EN ACOMPAÑAMIENTO TERAPÉUTICO 				       | 3 AÑOS  | 	 UNS 		 |
+TECNICATURA UNIVERSITARIA EN CARTOGRAFIA, TELEDETECCION Y SISTEMAS DE INFORMACION GEOGRAFICA   | 3 AÑOS  | 	 UNS		 |
+TECNICATURA UNIVERSITARIA EN ECONOMÍA Y GESTIÓN DE EMPRESAS ALIMENTARIAS 		       | 3 AÑOS  | 	 UNS		 |
+TECNICATURA UNIVERSITARIA EN MEDIO AMBIENTE        					       | 3 AÑOS  | 	 UNS		 |
+TECNICATURA UNIVERSITARIA EN OPERACIONES INDUSTRIALES 					       | 3 AÑOS  | 	 UNS		 |
+TECNICATURA UNIVERSITARIA EN OPTICA							       | 3 AÑOS  | 	 UNS		 |
+TECNICATURA UNIVERSITARIA EN PARQUES Y JARDINES        					       | 3 AÑOS  | 	 UNS		 |
+TECNICATURA UNIVERSITARIA EN SISTEMAS ELECTRÓNICOS INDUSTRIALES INTELIGENTES  		       | 3 AÑOS  | 	 UNS		 |
+TECNICATURA UNIVERSITARIA EN PROGRAMACIÓN						       | 2 AÑOS  |  	 UTN  		 |
+TECNICATURA UNIVERSITARIA EN MANTENIMIENTO INDUSTRIAL					       | 3 AÑOS  |  	 UTN 		 |
+TECNICATURA SUPERIOR EN GESTIÓN AMBIENTAL Y SALUD					       | 3 AÑOS  |  	JUAN 23		 |
+TECNICATURA SUPERIOR EN AUTOMATIZACIÓN Y CONTROL					       | 3 AÑOS  |  	JUAN 23		 |
+TECNICATURA EN DISEÑO GRAFICO								       | 3 AÑOS  | 	 ESAV		 |
+TECNICATURA EN ILUSTRACIÓN								       | 3 AÑOS  |  	 ESAV		 |
+TECNICATURA SUPERIOR EN REALIZADOR DE ARTES VISUALES					       | 3 AÑOS  |  	 ESAV		 |
+TECNICATURA SUPERIOR EN CERÁMICA							       | 3 AÑOS  |  	 ESAV		 |
+TECNICATURA SUPERIOR EN TRADUCTORADO TECNICO-CIENTIFICO EN LENGUA INGLESA	               | 3 AÑOS  |  	GOYENA		 |
+TECNICO SUPERIOR EN SERVICIOS GASTRONOMICOS Y CERTIFICACION DE CHEF			       | 3 AÑOS  | 	GOYENA		 |
+TECNICATURA SUPERIOR EN PRODUCCION AGRICOLA GRANADERA					       | 3 AÑOS  |  	GOYENA		 |
+ANESTESIOLOGIA										       | 3 AÑOS  |  	GOYENA		 |
+TECNICO SUPERIOR EN AUTOMATIZACION Y CONTROL						       | 3 AÑOS  |  	GOYENA		 |
+TECNICO SUPERIOR EN ESTERILIZACION							       | 3 AÑOS  |  	GOYENA		 |
+PROTESICO DENTAL DE LABORATORIO								       | 3 AÑOS  | 	GOYENA		 |
+TECNICO SUPERIOR EN ESCENA DEL CRIMEN							       | 3 AÑOS  |  	GOYENA		 |
+TECNICO SUPERIOR EN HIGIENE Y SEGURIDAD EN EL TRABAJO					       | 3 AÑOS  |  	GOYENA           |
+TECNICO SUPERIOR EN HEMOTERAPIATECNOLOGO EN SALUD CON ESPECIALIDAD EN CARDIOLOGIA	       | 3 AÑOS  |  	GOYENA           |
+==================================================================================================================================
+
